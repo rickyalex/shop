@@ -3,8 +3,8 @@
 	ini_set("display_errors", 1);
 	include('inc/db.php');
 	include('inc/statistics.php');
-?><!DOCTYPE html">
-<html>
+?>
+<!DOCTYPE html">
 <head>
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 	<title>Home | Pegashoes - The Best Indonesian Online Shoe Catalog</title>
@@ -149,6 +149,27 @@
 			<div class="col col-last">
 				<h3 class="ico ico4">Belanja Mudah</h3>
 				<p style='text-align:justify'>Metode kami sangat simpel dan sederhana. Tanpa memerlukan login atau aktivasi akun, anda bisa langsung menghubungi kami untuk melakukan transaksi</p>
+				
+			</div>
+			<div class="cl">&nbsp;</div>
+		</div>
+		<!-- End Text Cols -->
+        
+        <!-- Text Cols -->
+		<div class="cols">
+			<div class="cl">&nbsp;</div>
+			<div class="col">
+				<h3>Pembayaran Melalui</h3>
+				<img src="css/images/bank.jpg">
+				
+			</div>
+			<div class="col">
+				<h3>Jasa Pengiriman</h3>
+				<img src="css/images/pengiriman.jpg">
+			</div>
+			<div class="col">
+				<h3>Jadilah Teman Kami</h3>
+				<div data-href="https://www.facebook.com/spinachstoreindonesia" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="true"></div>
 				
 			</div>
 			<div class="cl">&nbsp;</div>

@@ -19,8 +19,8 @@
         'width' => 221,
         'path' => '../uploads',
         'thumbs' => array(array(
-                'height' => 252,
-                'width' => 720,
+                'height' => 410,
+                'width' => 951,
                 'crop' => true,
                 'marker' => '_th'))));
     
